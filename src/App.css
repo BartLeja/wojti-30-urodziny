@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.generated-text {
+  font-family:Papyrus;
+  font-size:32px;
+  font-weight:bold;
+  font-variant:small-caps;
+  line-height:50px;
+  text-align:center;
+  color:#ffffff;
+  background-color:#4d4d4d;
+  padding:20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
