@@ -522,7 +522,8 @@ function App() {
     // The options of the gallery (from the playground current state)
     const options = {
         galleryLayout: 0,
-        imageHoverAnimation: 'ZOOM_IN'
+        imageHoverAnimation: 'ZOOM_IN',
+        enableInfiniteScroll: true,
     };
 
     // The size of the gallery container. The images will fit themselves in it
